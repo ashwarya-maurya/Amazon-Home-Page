@@ -32,7 +32,7 @@
 }
 
 .logo{
-    background-image: url(/amazon_logo.png);
+    background-image: url(/images/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%
@@ -115,7 +115,7 @@
 .flag{
     height: 16px;
     width: 23px;
-    background-image: url("/download.png");
+    background-image: url("/images/download.png");
     background-size: cover;
 }
 
@@ -210,7 +210,7 @@
 
 .hero-sec{
     height: 320px;
-    background-image: url(/hero_image1.jpg);
+    background-image: url(/images/hero_image1.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -312,7 +312,7 @@
 .foot-logo{
     height: 60px;
     width: 98px;
-    background-image: url(/amazon_logo.png);
+    background-image: url(/images/amazon_logo.png);
     background-size: cover;
 }
 
@@ -337,7 +337,7 @@
 .foot-flag{
     height: 13px;
     width: 20px;
-    background-image: url(/download.png);
+    background-image: url(images/download.png);
     background-size: cover;
     margin-right: 5px;
 }
